@@ -1,5 +1,3 @@
-# responsible-ai-audit-toolkit
-
 # Practical Responsible AI Audit Toolkit
 
 ## Overview
